@@ -36,7 +36,7 @@ def download_census():
 
      Example
     -------
-    >>> from WorkingScripts.o2_census_download import download_census
+    >>> from ModelScripts.o2_census_download import download_census
     >>> download_census()
     >>> # Output: GeoPackage saved to ./Data/merged_shapefile/Nationwide_Tracts.gpkg
     """

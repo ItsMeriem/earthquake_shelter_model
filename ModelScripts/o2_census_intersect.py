@@ -186,7 +186,7 @@ def shakemap_into_census_geo(eventdir):
 
     Example
     -------
-    >>> from WorkingScripts.o2_census_intersect import shakemap_into_census_geo
+    >>> from ModelScripts.o2_census_intersect import shakemap_into_census_geo
     >>> shakemap_into_census_geo(eventdir = "./Data/Shakemap/us70006vll")
 
     # Outputs:

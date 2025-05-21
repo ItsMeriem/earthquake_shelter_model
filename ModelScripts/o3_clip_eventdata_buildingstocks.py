@@ -161,7 +161,7 @@ def building_clip_analysis(eventid):
 
     Example
     -------
-    >>> from WorkingScripts.o6_merge_building_shakemap import building_clip_analysis
+    >>> from ModelScripts.o6_merge_building_shakemap import building_clip_analysis
     >>> df = building_clip_analysis("us7000kuf4")
     >>> df.columns
     Index(['GEOID', 'max_intensity', 'min_intensity', 'mean_intensity', 'geometry',

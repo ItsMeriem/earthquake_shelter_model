@@ -408,7 +408,7 @@ def o3_get_building_structures():
 
     Example
     -------
-    >>> from WorkingScripts.o3_building_module import o3_get_building_structures
+    >>> from ModelScripts.o3_building_module import o3_get_building_structures
     >>> o3_get_building_structures()
 
     # Outputs:
